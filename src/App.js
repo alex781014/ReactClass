@@ -1,25 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
-
+// 先決定狀態 useState 會因為使用者不斷改變叫做狀態
+// import MyButton from './components/MyButton'
+// import JSXDemo from './ex-0711-1/JSXDemo.js'
+// import MapDemo from './ex-0711-2/MapDemo.js'
+// import Counter from './ex-0711-3/Counter'
+// import Product from './ex-0711-4/data/Product'
+// import Menu from './ex-0711-5/Menu'
+import ObjArray from './ex-0711-6/ObjArray'
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+  return <ObjArray />
 }
 
-export default App;
+export default App
