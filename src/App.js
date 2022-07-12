@@ -5,9 +5,10 @@
 // import Counter from './ex-0711-3/Counter'
 // import Product from './ex-0711-4/data/Product'
 // import Menu from './ex-0711-5/Menu'
-import ObjArray from './ex-0711-6/ObjArray'
-function App() {
-  return <ObjArray />
+// import ObjArray from './ex-0711-6/ObjArray'
+import Parent from './ex-0712-2/Parent'
+function App(props) {
+  return <Parent />
 }
 
 export default App
