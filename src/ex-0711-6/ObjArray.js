@@ -21,7 +21,8 @@ const objArray = [
 
 function ObjArray() {
   const [data, setData] = useState(objArray)
-
+  // const [products,setProducts] = useState([])//資料庫回來資料是陣列，預設值至少要給空陣列
+  // const [products, setProducts] = useState({}) //資料庫回來資料是物件的話，預設值空"不能給空物件"，直接把裡面屬性寫出來!!舉例({avatar:'',name:''})
   return (
     <>
       <h1>物件陣列的各種操作</h1>

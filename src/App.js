@@ -6,11 +6,11 @@
 // import Product from './ex-0711-4/data/Product'
 // import Menu from './ex-0711-5/Menu'
 // import ObjArray from './ex-0711-6/ObjArray'
-// import Parent from './ex-0712-2/Parent'
+import Parent from './ex-0712-2/Parent'
 // import OrderPage from './ex-0713-2/OrderPage'
-import Controlled from './ex-0713-2/ex-0713-2/Controlled'
+// import Controlled from './ex-0713-2/ex-0713-2/Controlled'
 function App() {
-  return <Controlled />
+  return <Parent />
 }
 
 export default App
