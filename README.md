@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+// 1. 從目前的狀態拷貝出一個新的變數值(陣列/物件)
+// 2. 在新的變數值(陣列/物件)上作處理
+// 3. 設定回原本的狀態中

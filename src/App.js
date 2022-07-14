@@ -6,11 +6,14 @@
 // import Product from './ex-0711-4/data/Product'
 // import Menu from './ex-0711-5/Menu'
 // import ObjArray from './ex-0711-6/ObjArray'
-import Parent from './ex-0712-2/Parent'
+// import Parent from './ex-0712-2/Parent'
 // import OrderPage from './ex-0713-2/OrderPage'
-// import Controlled from './ex-0713-2/ex-0713-2/Controlled'
+// import Controlled from './ex-0713-3/Controlled'
+// import Controlled from './ex-0714-1/Controlled'
+// import GetDate from './getDate/GetDate'
+import BirthSelect from './ex-0714-2/BirthSelect'
 function App() {
-  return <Parent />
+  return <BirthSelect />
 }
 
 export default App
