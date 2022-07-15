@@ -11,9 +11,21 @@
 // import Controlled from './ex-0713-3/Controlled'
 // import Controlled from './ex-0714-1/Controlled'
 // import GetDate from './getDate/GetDate'
-import BirthSelect from './ex-0714-2/BirthSelect'
+// import BirthSelect from './ex-0714-2/BirthSelect'
+// import TWZipcode from './ex-0715-1/TWZipcode'
+// import BmiTeacher from './ex-0715-2/BmiTeacher'
+// import MultiplelInput from './ex-0715-3/MultiplelInput'
+// import HTML5Form from './ex-0715-4/HTML5Form'
+import IdFrom from './ex-0715-6/IdFrom'
+import RefsForm from './ex-0715-6/RefsForm'
 function App() {
-  return <BirthSelect />
+  return (
+    <>
+      <IdFrom />
+      <hr />
+      <RefsForm />
+    </>
+  )
 }
 
 export default App
