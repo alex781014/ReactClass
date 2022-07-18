@@ -16,14 +16,19 @@
 // import BmiTeacher from './ex-0715-2/BmiTeacher'
 // import MultiplelInput from './ex-0715-3/MultiplelInput'
 // import HTML5Form from './ex-0715-4/HTML5Form'
-import IdFrom from './ex-0715-6/IdFrom'
-import RefsForm from './ex-0715-6/RefsForm'
+// import IdFrom from './ex-0715-6/IdFrom'
+// import RefsForm from './ex-0715-6/RefsForm'
+// import CC from './ex-0718-1/CC'
+
+import User from './ex-0718-2/User'
+
+// import Parent from './ex-0718-1/Parent'
+
+// import FC from './ex-0718-1/FC'
 function App() {
   return (
     <>
-      <IdFrom />
-      <hr />
-      <RefsForm />
+      <User />
     </>
   )
 }
